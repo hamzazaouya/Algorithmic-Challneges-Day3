@@ -1,0 +1,36 @@
+* {
+    margin:0;
+    padding;0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif
+}
+
+.square {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.square h1 {
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+}
+
+.square input {
+    height: 40px;
+    width: 170px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.square p {
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+
